@@ -1,0 +1,11 @@
+from turtle import *
+hideturtle()
+color('sky blue')
+begin_fill()
+fillcolor('sky blue')
+forward(300)
+left(120)
+forward(300)
+left(120)
+forward(299)
+end_fill()
